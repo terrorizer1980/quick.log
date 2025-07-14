@@ -4,12 +4,12 @@
   "description": "This package provides a quick, easy to use, logging solution viewable from a browser.",
   "main": "index.js",
   "dependencies": {
-    "client-oauth2": "^4.1.0",
+    "client-oauth2": "^4.3.0",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.2",
     "showdown": "^1.8.4",
     "snekfetch": "^3.6.1",
-    "socket.io": "^2.0.4"
+    "socket.io": "^4.8.0"
   },
   "devDependencies": {},
   "scripts": {
